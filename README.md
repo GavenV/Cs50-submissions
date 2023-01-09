@@ -1,2 +1,2 @@
 # Cs50-submissions
-CS50 some python some C 
+All the work i got done before i kinda just gave up
